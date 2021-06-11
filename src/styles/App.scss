@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  background-color: #010101;
+  color: aliceblue;
+}
+
+.home1 {
+  display: flex;
+  padding: 20px 20%;
+  align-items: center;
+  justify-content: center;
+  img {
+    width: 400px;
+    height: 600px;
+  }
+}
